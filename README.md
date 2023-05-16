@@ -44,14 +44,14 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit9252&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit9252&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&theme=tokyonight" />
 
 </p>
 
 <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rohit9252&column=7&theme=onedark"" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Dilip0012022&column=7&theme=onedark"" />
   </a>
 <div>
 
