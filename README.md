@@ -28,7 +28,7 @@
 
 
 
-<a target="_blank" href="https://linkedin.com/in/riya-sharma1099" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112823546/212489016-dec18ce2-65ab-4a24-a9e0-3ecfbf02fe2f.png" alt="riya-sharma1099" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/dilip-gupta-482b09140/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112823546/212489016-dec18ce2-65ab-4a24-a9e0-3ecfbf02fe2f.png" alt="Dilip0012022" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Familiar Tech Stack:</h3>
