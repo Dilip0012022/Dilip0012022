@@ -17,19 +17,12 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
 
-- 📫 How to reach me **dkguptaji001@gmail.com**
+- 📫 How to reach me : **[dkguptaji001@gmail.com](mailto:dkguptaji001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dilip-gupta-482b09140/)**
+
 
 - ⚡ Interesting fact **I think I am a good Listener.**
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-
-
-
-
-<a target="_blank" href="https://www.linkedin.com/in/dilip-gupta-482b09140/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112823546/212489016-dec18ce2-65ab-4a24-a9e0-3ecfbf02fe2f.png" alt="Dilip0012022" height="30" width="40" /></a>
-</p>
 <hr>
 <h3 align="left">Familiar Tech Stack:</h3>
 </br>
@@ -54,6 +47,32 @@
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"  padding="4px"  height="50"/>
   </br> 
     <hr>
+
+
+    ---
+**<h3 align="left">Connect with me:</h3>**
+
+**Email:- rushikeshbhomale@gmail.com**
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/rbhomale17">
+    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+<!--   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<p align="left">
+</p>
+
+---
 
 ## 📊 My Github Stats
 
