@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
 
-- 📫 How to reach me **riyasharma49146@gmail.com**
+- 📫 How to reach me **dkguptaji001@gmail.com**
 
 - ⚡ Interesting fact **I think I am a good Listener.**
 
