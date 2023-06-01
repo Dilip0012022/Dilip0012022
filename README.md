@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Riya Sharma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaa-1099&label=Profile%20views&color=0e75b6&style=flat" alt="riyaa-1099" /> </p>
+<h1 align="center">Hi 👋, I'm Dilip Kumar Gupta</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilip0012022&label=Profile%20views&color=0e75b6&style=flat" alt="Dilip0012022" /> </p>
 
 ![MasterHead](https://user-images.githubusercontent.com/112823546/217016507-da977155-0e3a-48ff-905c-e3eecfdf2b00.png)
 
@@ -11,15 +11,15 @@
 
 
 
-- 👨‍💻 All of my projects are available at <a href="https://riyaa-1099.github.io" target="_blank" >Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://dilip0012022.github.io" target="_blank" >Portfolio</a>
 
-- 💼 See my <a href="https://drive.google.com/file/d/1xaj8SXCjdDcAZz4C8w9hMxvYuH5Rxlcb/view?usp=share_link" target="_blank"  download>Resume</a>
+- 💼 See my <a href="https://drive.google.com/file/d/1TvdRGWPUJQxthdq18ERkkQjzZxGJFaou/view" target="_blank"  download>Resume</a>
 
 - 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
 
 - 📫 How to reach me **riyasharma49146@gmail.com**
 
-- ⚡ Fun fact **I think I am a good Dancer.**
+- ⚡ Interesting fact **I think I am a good Listener.**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -38,24 +38,24 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit9252&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit9252&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&theme=tokyonight" />
 
 </p>
 
 <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rohit9252&column=7&theme=onedark"" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Dilip0012022&column=7&theme=onedark"" />
   </a>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=riyaa-1099&show_icons=true&locale=en" alt="riyaa-1099" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&show_icons=true&locale=en" alt="Dilip0012022" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaa-1099&lans-count=4" alt="riyaa-1099" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip0012022&lans-count=4" alt="Dilip0012022" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaa-1099&" alt="riyaa-1099" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&" alt="Dilip0012022" /></p>
 </div>
 </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaa-1099" alt="riyaa-1099" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dilip0012022" alt="Dilip0012022" /></a> </p>
