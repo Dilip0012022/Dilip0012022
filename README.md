@@ -53,7 +53,7 @@
 **Email:- dkguptaji001@gmail.com**
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dilip-gupta-482b09140/">
+  <a href="https://www.linkedin.com/in/dilip-gupta-482b09140">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Dilip0012022">
@@ -92,4 +92,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&" alt="Dilip0012022" /></p>
 </div>
 </br>
+<a href="https://github.com/Dilip0012022"><img src="https://github-contributor-stats.vercel.app/api?username=Dilip0012022&limit=5&combine_all_yearly_contributions=true" alt="Dilip0012022" /></a> 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dilip0012022" alt="Dilip0012022" /></a> </p> -->
