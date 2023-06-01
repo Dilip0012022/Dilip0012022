@@ -48,22 +48,17 @@
   </br> 
     <hr>
 
-
-    ---
 **<h3 align="left">Connect with me:</h3>**
 
-**Email:- rushikeshbhomale@gmail.com**
+**Email:- dkguptaji001@gmail.com**
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158">
+  <a href="https://www.linkedin.com/in/dilip-gupta-482b09140/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/rbhomale17">
+  <a href="https://github.com/Dilip0012022">
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
   <a href="#">
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
   </a>
