@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ExpressJS, NodeJS, MongoDB, Redis, Mysql, AWS, DSA, React, System Design.**
 
-- 📫 How to reach me : **[dkguptaji001@gmail.com](mailto:dkguptaji001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dilip-gupta-482b09140/)**
+- 📫 How to reach me : **[dkguptaji001@gmail.com](mailto:dkguptaji001@gmail.com)**
 
 
 - ⚡ Interesting fact **I think I am a good Listener.**
@@ -59,9 +59,7 @@
   <a href="https://github.com/Dilip0012022">
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
 <p align="left">
