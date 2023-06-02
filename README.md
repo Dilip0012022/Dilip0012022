@@ -50,28 +50,7 @@
 
 **My Github Stats :**
 
- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&theme=tokyonight" />
-
-</p>
-
-<div align="center"  >
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dilip0012022&column=7&theme=onedark"" />
-  </a>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&show_icons=true&locale=en" alt="Dilip0012022" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip0012022&lans-count=4" alt="Dilip0012022" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&" alt="Dilip0012022" /></p>
-</div>
-</br>
-<a href="https://github.com/Dilip0012022"><img src="https://github-contributor-stats.vercel.app/api?username=Dilip0012022&limit=5&combine_all_yearly_contributions=true" alt="Dilip0012022" /></a>  
+ <a href="https://github.com/Dilip0012022"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dilip0012022 github stats" /></a>  <a href="https://github.com/Dilip0012022"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip0012022&layout=compact&theme=buefy&hide_border=true" alt="Dilip0012022 github stats" /></a>   <a href="https://github.com/Dilip0012022"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&" alt="Dilip0012022 github stats" /></a>  
 
 ---
 
