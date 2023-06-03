@@ -40,11 +40,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaxyaRupeja&theme=great-gatsby&layout=compact)](https://github.com/LaxyaRupeja)
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Dilip0112022&theme=tokyonight&show_icons=true/460/300">
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=Dilip0012022&theme=tokyonight&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilip0112022&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilip0012022&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0112022&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip0012022&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 
